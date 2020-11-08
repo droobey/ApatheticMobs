@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[33,)"
+license="MIT"
+
+[[mods]]
+modId="apatheticmobs"
+version="1.4.2"
+displayName="Apathetic Mobs"
+credits="Contributors: whizzball1,kitlith,droobey"
+authors="whizzball1"
+description='''
+Mobs never attack you.
+'''
